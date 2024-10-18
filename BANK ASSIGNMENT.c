@@ -1,3 +1,7 @@
+/* Arthor : SLYVIA NJERI MURIITHI
+   Reg no : CT102/G/22110/24
+   */
+
 #include<stdio.h>
 int main(){
 	int age;
